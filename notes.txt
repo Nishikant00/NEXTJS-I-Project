@@ -6,3 +6,8 @@
 6. Sticky footer using a Container and flexbox flex col on parent element and margin auto on child element
 7. Also understood how to use usepathname hook
 8. Also understood useclient 
+9. fetching data in server components
+10. dynamic routing using app router
+11. params object
+12. Suspense fallback and streaming
+
