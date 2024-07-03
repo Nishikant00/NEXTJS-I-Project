@@ -1,4 +1,4 @@
-1. Create the next app 
+1. Create the next app then we made the script
 2. Homes page with basic styling and also the app router
 3. Posts page with basic styling and also the app router
 4. Header Added external images using Image from next/image and using next config images object remotepatterns array into protocol and hostname 
@@ -6,8 +6,10 @@
 6. Sticky footer using a Container and flexbox flex col on parent element and margin auto on child element
 7. Also understood how to use usepathname hook
 8. Also understood useclient 
-9. fetching data in server components
+9. fetching data in server components basically get
 10. dynamic routing using app router
 11. params object
 12. Suspense fallback and streaming
-
+13. loading.tsx affects the entire page in the app router
+14. useclient for hooks and events its all client components and not the default server components
+15. useServer is for server actions
