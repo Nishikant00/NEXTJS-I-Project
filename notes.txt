@@ -13,3 +13,5 @@
 13. loading.tsx affects the entire page in the app router
 14. useclient for hooks and events its all client components and not the default server components
 15. useServer is for server actions
+16. lets setup our postgres databsse using drizzle
+
