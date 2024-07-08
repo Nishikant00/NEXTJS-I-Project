@@ -14,4 +14,8 @@
 14. useclient for hooks and events its all client components and not the default server components
 15. useServer is for server actions
 16. lets setup our postgres databsse using drizzle
+17. drizzle-orm and kit and postgres installed
+18. drizzle.config.ts file made
+19. then dotenv setup with env.ts and zod
+
 
