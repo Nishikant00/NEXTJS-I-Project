@@ -6,13 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "db:studio": "npx drizzle-kit studio --config=drizzle.config.ts",
+    "db:push": "npx drizzle-kit push --config=drizzle.config.ts"
   },
   "dependencies": {
     "@lucia-auth/adapter-drizzle": "^1.0.7",
-    "better-sqlite3": "^11.1.1",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.31.2",
+    "lucia": "^3.2.0",
     "next": "14.2.4",
     "pg": "^8.12.0",
     "postgres": "^3.4.4",

@@ -7,7 +7,10 @@ const nextConfig = {
                 hostname:'png.pngtree.com',
             }
         ]
-    }
+    },
+    experimental: {
+		serverComponentsExternalPackages: ["@node-rs/argon2"]
+	}
 };
 
 export default nextConfig;

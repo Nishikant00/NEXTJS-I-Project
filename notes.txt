@@ -17,5 +17,5 @@
 17. drizzle-orm and kit and postgres installed
 18. drizzle.config.ts file made
 19. then dotenv setup with env.ts and zod
-
+20. revalidate the cache
 
