@@ -18,4 +18,5 @@
 18. drizzle.config.ts file made
 19. then dotenv setup with env.ts and zod
 20. revalidate the cache
-
+21. notFound() and not-found.tsx
+22. busting the cash on refresh or sometime later so use revalidate instead

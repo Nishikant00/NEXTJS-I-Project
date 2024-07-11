@@ -4,6 +4,7 @@ import { useState } from "react";
 
 export default function Upvote() {
     const [upvotes,setUpvotes]=useState(0)
+    
     return (
         <div>
             <button onClick={()=>{
